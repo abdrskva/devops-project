@@ -76,7 +76,7 @@ Workflow file:
 .github/workflows/ci.yml
 ---
 
-## 🛡️ Best Practices Applied
+##  Best Practices Applied
 
 - Descriptive commit messages
 - Structured branching strategy
@@ -86,7 +86,7 @@ Workflow file:
 
 ---
 
-## 📈 How to Clone
+##  How to Clone
 
 ```bash
 git clone https://github.com/<your-username>/devops-project.git
