@@ -89,5 +89,5 @@ Workflow file:
 ##  How to Clone
 
 ```bash
-git clone https://github.com/<your-username>/devops-project.git
+git clone https://github.com/abdrskva/devops-project.git
 cd devops-project
